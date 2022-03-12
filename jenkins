@@ -15,7 +15,7 @@ pipeline
            // steps
            // {
                 
-              // git 'https://github.com/Ambikake/jenkins.git'
+              // git 'https://github.com/Ambikake/jenkinsfile.git'
                 
            // }
             
